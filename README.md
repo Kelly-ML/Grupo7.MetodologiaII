@@ -8,4 +8,5 @@ Grupo 7 de Metodologia II 4C CUDI
 Nazarena Rodriguez           nazarodriguez08                              cambios readme
 Gabriel Nicolas Lauria          gablauria                                   subir un txt
 Farias Dylan                   dylanholow2@gmail.com                       cambios en el readme
+Lascano jorge				jorgeN364				colaborador
 ---
