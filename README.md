@@ -11,4 +11,5 @@ Grupo 7 de Metodologia II 4C CUDI
 | Lascano Jorge          | @jorgeN364               | colaborador                      |
 | Brian Ezequiel Guzmán  | @neikiam                 | modificar readme y añadir un txt |
 | Paz Fabian Alberto     | @shaddy.fp@gmail.com     | colaborador                      |
+| Farias Brandon         | @brando411               | subir un txt                     |
 ---
