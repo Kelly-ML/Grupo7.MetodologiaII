@@ -10,4 +10,5 @@ Grupo 7 de Metodologia II 4C CUDI
 | Farias Dylan           | dylanholow2@gmail.com    | cambios en el readme             |
 | Lascano Jorge          | @jorgeN364               | colaborador                      |
 | Brian Ezequiel Guzmán  | @neikiam                 | modificar readme y añadir un txt |
+| Paz Fabian Alberto     | @shaddy.fp@gmail.com     | colaborador                      |
 ---
