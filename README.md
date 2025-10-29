@@ -5,5 +5,5 @@ Grupo 7 de Metodologia II 4C CUDI
 | Nombre Completo         |         Usuario de GitHub                 |         Contribución                 |
 |----------------------   | ------------------------------------------|--------------------------------------|
  VALVERDE EMANUEL               YUSKEMA@GMAIL.COM                                    
-
+Gabriel Nicolas Lauria          gablauria                                   subir un txt
 ---
