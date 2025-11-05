@@ -12,4 +12,5 @@ Grupo 7 de Metodologia II 4C CUDI
 | Brian Ezequiel Guzmán  | @neikiam                 | modificar readme y añadir un txt |
 | Paz Fabian Alberto     | @shaddy.fp@gmail.com     | colaborador                      |
 | Farias Brandon         | @brando411               | subir un txt                     |
+| Meza Kelly             | @Kelly-ML                | subir un txt y crear repo        |
 ---
